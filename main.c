@@ -1,1 +1,1 @@
-"#inc<stdio.h>" 
+"#include<stdio.h>" 
